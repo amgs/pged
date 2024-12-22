@@ -1,0 +1,83 @@
+@startmindmap 01_sociedade_em_rede
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+* <&star>Sociedade em Rede
+
+left side
+
+**_ constitui e define a 
+
+*** Globalização
+*** Acesso à informação
+*** Consumo
+*** Tecnologias de informação
+*** Redes sociais
+
+right side
+
+**_ implica
+
+***:Economia global
+e flexível;
+****_ caraterizada por
+***** Foco na inovação
+*****:Redefinição do
+trabalho;
+******_ tais como
+*******:Trabalho por projeto
+ou tarefa;
+******* Hiperespecialização
+******* Aprendizagem contínua
+*****:Substituição do espaço
+físico pelo espaço virtual;
+***** Descentralização
+*****:Transformação do tempo:
+* Simulaneidade
+* Atemporalidade;
+
+***:Transformação social
+profunda;
+****_ implica
+*****:Dinamismo na
+configuração social;
+******_ promove
+*******:Irreversibilidade da
+globalização económica;
+*******:Reformulação e dissolução
+de redes;
+*****:Nova cultura:
+//"Virtualidade Real"//;
+******_ caraterizada por nov@s
+******* Esquemas mentais
+******* Modos de apropriação social
+******* Práticas sociais
+
+***:Novas ecologias e
+ecossistemas de aprendizagem;
+****_:em resposta à
+necessidade de;
+***** Habilitação digital
+***** Capacidade de trabalho em rede
+***** Resolução de problemas complexos
+***** Competência criativa
+***** Capacidade de inovação
+***** Aprendizagem ao longo da vida
+****_ envolve
+*****:Definição de novas
+formas de educar e ser educado;
+******_ tais como
+*******:Aplicação imediata
+de conhecimento;
+*******:Ensinar e aprender
+em mobilidade;
+*******:Flexibilização
+da escola;
+********_ através de
+*********:Planeamento e
+gestão académica;
+*********:Capacitação do
+corpo docente;
+*********:Integração de
+espaços digitais;
+
+@endmindmap
