@@ -1,0 +1,1 @@
+# O Paradigma da Educomunicação

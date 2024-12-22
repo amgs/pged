@@ -6,4 +6,4 @@ A discussão contemporânea sobre a sociedade em rede tem no trabalho de Manuel 
 
 A educação, como um dos pilares fundamentais da sociedade, não pode ficar alheia a estas mudanças, e a educação digital surge como uma resposta a estes novos desafios, procurando explorar as potencialidades das tecnologias digitais para promover a aprendizagem e o desenvolvimento dos alunos.
 
-![Sociedade em Rede e os Novos Desafios da Educação](Figures/01_sociedade_em_rede.svg)
+![Sociedade em Rede e os Novos Desafios da Educação](Figures/01_01_sociedade_em_rede_e_os_novos_desafios_da_educacao.svg)
