@@ -1,0 +1,77 @@
+@startmindmap 01_00_sociedade_em_rede_e_educacao_digital
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Sociedade em Rede:**
+- Transformação social baseada na
+  integração global das redes digitais.  
+- Redes como estrutura organizacional
+  predominante na era da informação.
+- Proposto por Manuel Castells.;
+
+left side
+
+**_ possibilitam
+*** Tecnologias da Informação e Comunicação (TIC)
+****_:Revolução tecnológica como
+motor das mudanças sociais.;
+****_:Internet, telecomunicações e
+computadores como infraestruturas centrais.;
+*** Economia Global
+****_:Integração dos mercados financeiros
+e produtivos em escala global.;
+****_:Fluxos de capital, bens e
+serviços em tempo real.;
+*** Cultura da Virtualidade Real
+****_:Meios de comunicação como
+criadores de realidades simbólicas.;
+****_:Representações mediáticas que
+moldam valores e percepções.;
+
+**_ definem
+*** Características
+****_ Flexibilidade e descentralização.  
+****_ Fluxos contínuos de informação e comunicação.
+*** Impactos
+****_:Redes que conectam empresas, governos,
+organizações não-governamentais (ONGs) e indivíduos.;
+****_:Alteração das relações sociais,
+económicas e políticas.;
+
+**_ dinamizam
+*** Poder na Sociedade em Rede
+****_ Concentração em fluxos de informação e comunicação.
+****_ Conflito com poder tradicional.
+*** Contrapoder
+****_ Movimentos sociais digitais como agentes de resistência e mudança.
+****_ Exemplos: Primavera Árabe, activismo ambiental online.
+
+right side
+
+**_ transforma
+*** Trabalho
+****_:Substituição do trabalho tradicional pela
+economia baseada no conhecimento.;
+****_:Predomínio dos trabalhadores
+da informação.;
+*** Relações Interpessoais
+****_:Redes sociais digitais transformam
+a interação humana.;
+****_:Hiperconectividade acompanhada de
+individualismo em rede.;
+*** Globalização
+****_ Interconexão entre o local e o global.
+****_ Homogeneização e fragmentação cultural.
+
+**_ ameaça através de
+*** Exclusão Digital
+****_:Divisão entre conectados e desconectados,
+gerando desigualdades sociais.;
+*** Vigilância e Controlo
+****_:Redes utilizadas para monitorização
+em massa e controlo.;
+*** Fragmentação Social
+****_:Isolamento através de bolhas informacionais
+e reforço do individualismo.;
+
+@endmindmap
