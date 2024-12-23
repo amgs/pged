@@ -6,4 +6,6 @@ Esta integração profunda entre os mundos online e offline tem repercussões si
 
 Neste contexto, a educação deve evoluir para criar ambientes que não apenas transmitam conhecimento, mas também potenciem a interatividade, a colaboração e a personalização. O uso das tecnologias digitais deve permitir o desenvolvimento de experiências de aprendizagem mais envolventes e diversificadas, ajustadas às necessidades individuais dos estudantes. Além disso, é essencial capacitar os alunos com competências digitais críticas, fundamentais para a participação ativa e responsável numa sociedade em rede. Este movimento requer uma visão integrada, onde o conceito de onlife inspire práticas educativas que reflitam a complexidade e as oportunidades da era digital.
 
+![A Realidade Hiperconectada e a Educação Online](figures/01_02_a_realidade_hiperconectada_e_a_educacao_online.svg)
+
 [^1]: O conceito foi explorado numa obra mais completa, também editada por Luciano Floridi, intitulada "The Onlife Manifesto: Being Human in a Hyperconnected Era" (2015).
