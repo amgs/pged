@@ -1,0 +1,14 @@
+@startmindmap 01_02_a_realidade_hiperconectada_e_a_educacao_online
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+* Onlife
+
+left side
+
+** Hiperconectividade
+
+right side
+
+** Educação Digital
+@endmindmap
