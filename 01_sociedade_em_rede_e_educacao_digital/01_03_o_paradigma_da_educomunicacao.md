@@ -6,9 +6,12 @@ A centralidade da aprendizagem em comunidade reforça esta abordagem, valorizand
 
 Para compreender o papel da Educomunicação, é importante distinguir conceitos como ensino remoto, ensino à distância e educação digital. O ensino remoto, apens caraterizado por distanciamento geográfico dos intervenientes, difere do ensino à distância, que é estruturado e assente no distanciamento geográfico e temporal. Por outro lado, modalidades como o e-learning e o web-based learning utilizam a tecnologia como mediadora central do processo educativo[^2]. Mais recentemente, abordagens como a educação OnLife[^2][^3] integram dimensões online e offline, promovendo experiências de aprendizagem mais completas e adaptadas às necessidades atuais.
 
+![O Paradigma da Educomunicação](figures/01_03_o_paradigma_da_educomunicacao_conceitos.svg)
+
 A aplicação prática da Educomunicação requer estratégias concretas que incentivem a interação, a colaboração e o pensamento crítico. Exemplos como projetos interdisciplinares mediados por tecnologia ou a criação de comunidades de aprendizagem online demonstram como esta abordagem pode ser implementada para potenciar o envolvimento e a autonomia dos estudantes. Ou seja, a Educomunicação não é apenas uma resposta às exigências da era digital, mas também um convite à construção de um futuro educativo mais democrático e inclusivo.
 
 ![O Paradigma da Educomunicação](figures/01_03_o_paradigma_da_educomunicacao.svg)
+
 
 [^1]: Kaplún, M. (1998). Una Pedagogía de la Comunicación, Ed. de la Torre.
 [^2]: Moreira, J., Schlemmer, E. (2020). Por um novo conceito e paradigma de educação digital onlife, Revista UFG, Goiânia, v. 20, n. 26.

@@ -1,0 +1,31 @@
+@startmindmap 01_03_o_paradigma_da_educomunicacao_conceitos
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+* Conceitos
+
+left side
+
+** Ensino Remoto
+***_ Aula em tempo real, mas com distanciamento geográfico.
+** Ensino à Distância
+***_ Distanciamento geográfico e temporal.
+** Educação à Distância
+***_ Enfase na construção e socialização do conhecimento.
+** e-Learning
+***_ Ensino mediado por tecnologias digitais.
+** Educação Online
+***_ Processos completamente reticulares.
+right side
+** Web-based Learning
+***_ Aprendizagem suportada pela web.
+** Open Learning
+***_ Foco na autonomia do estudante.
+** Blended Learning
+***_ Combinação de métodos presenciais e à distância.
+** Educação Híbrida
+***_ Integração de culturas analógicas e digitais.
+** Educação Onlife
+***_ Integração das dimensões sociais online e offline.
+
+@endmindmap
