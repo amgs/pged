@@ -1,0 +1,60 @@
+@startmindmap 01_03_o_paradigma_da_educomunicacao
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+* Educomunicação
+
+right side
+
+**_ caraterizada por
+***_ Interação e participação ativa de estudantes.
+***_ Incentivo ao o pensamento crítico.
+***_ Foco na literacia mediática.
+***_ Promoção de competências digitais e colaborativas.
+***_ Alinhamento com a transformação social provocada pelas tecnologias.
+
+**_ capacita
+*** Aprender em Comunidade
+****_ Partilha de experiência e conhecimento.
+****_ Educação como processo coletiva.
+****_ Promove colaboração e inclusão.
+
+**_ adequada para
+
+*** Sociedades Reticulares
+
+left side
+
+**_ requer
+*** Ensino Remoto
+****_:Aula em tempo real, mas
+com distanciamento geográfico.;
+*** Ensino à Distância
+****_:Distanciamento geográfico
+e temporal.;
+*** Educação à Distância
+****_:Enfase na construção e
+socialização do conhecimento.;
+*** e-Learning
+****_:Ensino mediado por
+tecnologias digitais.;
+*** Educação Online
+****_:Processos completamente
+reticulares.;
+*** Web-based Learning
+****_:Aprendizagem suportada
+pela web.;
+*** Open Learning
+****_:Foco na autonomia do
+estudante.;
+*** Blended Learning
+****_:Combinação de métodos
+presenciais e à distância.;
+*** Educação Híbrida
+****_:Integração de culturas
+analógicas e digitais.;
+*** Educação Onlife
+****_:Integração das dimensões
+sociais online e offline.;
+
+@endmindmap
