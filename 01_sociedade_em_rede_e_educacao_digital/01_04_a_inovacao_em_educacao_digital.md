@@ -11,7 +11,7 @@ Contudo, a implementação eficaz destes ecossistemas enfrenta vários desafios,
 ![A Inovação em Educação Digital](figures/01_04_a_inovacao_em_educacao_digital.svg)
 
 [^1]: Bergmann, J., Sams, A. (2022). Flip Your Classroom: Reach Every Student in Every Class Every Day, Electronic Journal of Social and Strategic Studies, 2(3), 258-264.
-[^2]: UNESCO. (2019). Recommendation on Open Educational Resources (OER), UNESCO Recommendations.
+[^2]: UNESCO. (2019). [Recommendation on Open Educational Resources (OER)](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer), UNESCO Recommendations.
 [^3]: Siemens, G. (2005). Connectivism: A Learning Theory for the Digital Age, International Journal of Instructional Technology and Distance Learning.
 [^4]: Dabbagh, N., Kitsantas, A. (2011). Personal Learning Environments, Social Media, and Self-Regulated Learning: A Natural Formula for Connecting Formal and Informal Learning, Internet and Higher Education, 15(1), 3-8.
 
