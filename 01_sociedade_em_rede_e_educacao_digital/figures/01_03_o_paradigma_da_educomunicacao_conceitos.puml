@@ -2,30 +2,30 @@
 !define LIGHTBLUE
 !includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
 
-* Conceitos
+* **Conceitos Fundamentais**
 
 left side
 
-** Ensino Remoto
-***_ Aula em tempo real, mas com distanciamento geográfico.
-** Ensino à Distância
-***_ Distanciamento geográfico e temporal.
-** Educação à Distância
-***_ Enfase na construção e socialização do conhecimento.
-** e-Learning
-***_ Ensino mediado por tecnologias digitais.
-** Educação Online
-***_ Processos completamente reticulares.
+**_ Ensino Remoto
+***_ <color:grey>Aula em tempo real, mas com distanciamento geográfico.
+**_ Ensino à Distância
+***_ <color:grey>Distanciamento geográfico e temporal.
+**_ Educação à Distância
+***_ <color:grey>Enfase na construção e socialização do conhecimento.
+**_ e-Learning
+***_ <color:grey>Ensino mediado por tecnologias digitais.
+**_ Educação Online
+***_ <color:grey>Processos completamente reticulares.
 right side
-** Web-based Learning
-***_ Aprendizagem suportada pela web.
-** Open Learning
-***_ Foco na autonomia do estudante.
-** Blended Learning
-***_ Combinação de métodos presenciais e à distância.
-** Educação Híbrida
-***_ Integração de culturas analógicas e digitais.
-** Educação Onlife
-***_ Integração das dimensões sociais online e offline.
+**_ Web-based Learning
+***_ <color:grey>Aprendizagem suportada pela web.
+**_ Open Learning
+***_ <color:grey>Foco na autonomia do estudante.
+**_ Blended Learning
+***_ <color:grey>Combinação de métodos presenciais e à distância.
+**_ Educação Híbrida
+***_ <color:grey>Integração de culturas analógicas e digitais.
+**_ Educação Onlife
+***_ <color:grey>Integração das dimensões sociais online e offline.
 
 @endmindmap

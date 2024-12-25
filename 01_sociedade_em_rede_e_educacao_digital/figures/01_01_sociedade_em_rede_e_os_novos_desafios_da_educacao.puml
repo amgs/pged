@@ -1,83 +1,73 @@
 @startmindmap 01_01_sociedade_em_rede_e_os_novos_desafios_da_educacao
 !define LIGHTBLUE
 !includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
-* <&star>Sociedade em Rede
+* **Sociedade em Rede**
 
 left side
 
-**_ constitui e define a 
+**_ equivale
+*** Sociedade Moderna
+****_ Globalização.
+****_ Acesso à informação.
+****_ Consumo.
+****_ Tecnologias de informação.
+****_ Redes sociais.
 
-*** Globalização
-*** Acesso à informação
-*** Consumo
-*** Tecnologias de informação
-*** Redes sociais
+**_ conduz à
+
+***:Economia global
+e flexível;
+****_ Foco na inovação.
+****_ Trabalho por projeto ou tarefa.
+****_ Hiperespecialização.
+****_ Aprendizagem contínua.
+****_ Substituição do espaço físico pelo espaço virtual.
+****_ Descentralização.
+****_ Simulaneidade.
+****_ Atemporalidade.
 
 right side
 
 **_ implica
-
-***:Economia global
-e flexível;
-****_ caraterizada por
-***** Foco na inovação
-*****:Redefinição do
-trabalho;
-******_ tais como
-*******:Trabalho por projeto
-ou tarefa;
-******* Hiperespecialização
-******* Aprendizagem contínua
-*****:Substituição do espaço
-físico pelo espaço virtual;
-***** Descentralização
-*****:Transformação do tempo:
-* Simulaneidade
-* Atemporalidade;
 
 ***:Transformação social
 profunda;
 ****_ implica
 *****:Dinamismo na
 configuração social;
-******_ promove
-*******:Irreversibilidade da
+******_:Irreversibilidade da
 globalização económica;
-*******:Reformulação e dissolução
+******_:Reformulação e dissolução
 de redes;
 *****:Nova cultura:
 //"Virtualidade Real"//;
-******_ caraterizada por nov@s
-******* Esquemas mentais
-******* Modos de apropriação social
-******* Práticas sociais
+******_ Esquemas mentais.
+******_ Modos de apropriação social.
+******_ Práticas sociais.
 
 ***:Novas ecologias e
 ecossistemas de aprendizagem;
-****_:em resposta à
-necessidade de;
-***** Habilitação digital
-***** Capacidade de trabalho em rede
-***** Resolução de problemas complexos
-***** Competência criativa
-***** Capacidade de inovação
-***** Aprendizagem ao longo da vida
+****_ implica
+*****_ Habilitação digital.
+*****_ Capacidade de trabalho em rede.
+*****_ Resolução de problemas complexos.
+*****_ Competência criativa.
+*****_ Capacidade de inovação.
+*****_ Aprendizagem ao longo da vida.
 ****_ envolve
-*****:Definição de novas
-formas de educar e ser educado;
-******_ tais como
-*******:Aplicação imediata
+*****:Novas formas de educar
+e ser educado;
+******_:Aplicação imediata
 de conhecimento;
-*******:Ensinar e aprender
+******_:Ensinar e aprender
 em mobilidade;
-*******:Flexibilização
+*****:Flexibilização
 da escola;
-********_ através de
-*********:Planeamento e
+******_:Planeamento e
 gestão académica;
-*********:Capacitação do
+******_:Capacitação do
 corpo docente;
-*********:Integração de
+******_:Integração de
 espaços digitais;
 
 @endmindmap
