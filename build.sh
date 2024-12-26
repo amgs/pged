@@ -1,7 +1,8 @@
-cd 01_sociedade_em_rede_e_educacao_digital 
-pandoc 01_00_sociedade_em_rede_e_educacao_digital.md -o ../output/01_00_sociedade_em_rede_e_educacao_digital.pdf -H ../preamble.tex
-pandoc 01_01_sociedade_em_rede_e_os_novos_desafios_da_educacao.md -o ../output/01_01_sociedade_em_rede_e_os_novos_desafios_da_educacao.pdf -H ../preamble.tex
-pandoc 01_02_a_realidade_hiperconectada_e_a_educacao_online.md -o ../output/01_02_a_realidade_hiperconectada_e_a_educacao_online.pdf -H ../preamble.tex
-pandoc 01_03_o_paradigma_da_educomunicacao.md -o ../output/01_03_o_paradigma_da_educomunicacao.pdf -H ../preamble.tex
-pandoc 01_04_a_inovacao_em_educacao_digital.md -o ../output/01_04_a_inovacao_em_educacao_digital.pdf -H ../preamble.tex
-cd ..
+# modules=("01_sociedade_em_rede_e_educacao_digital" "03_pedagogia_e_aprendizagem_digital" "05_praticas_de_avaliacao_digital" "02_ambientes_educativos_emergentes" "04_tecnologias_e_recursos_audiovisuais" "06_projeto_de_formacao_em_contexto_digital")
+modules=("01_sociedade_em_rede_e_educacao_digital")
+
+for module in $modules; do
+	cd "01 Módulos"/$module
+	for x in *.md; do pandoc "$x" -o "../../02 Output/${x%.md}.pdf" -H ../../preamble.tex; done
+	cd ..
+done
