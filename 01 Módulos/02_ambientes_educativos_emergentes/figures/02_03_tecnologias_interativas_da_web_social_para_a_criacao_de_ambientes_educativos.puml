@@ -1,0 +1,29 @@
+@startmindmap 02_03_tecnologias_interativas_da_web_social_para_a_criacao_de_ambientes_educativos
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+* **Web Social na Educação**
+
+left side
+
+**_ confere competências para
+***_ Literacia digital
+***_ Redes sociais
+***_ Comunidades de aprendizagem
+
+right side
+
+**_ promove
+***_ Aumento da motivação de estudantes
+***_ Interação além da sala de aula
+***_ Comunidades Virtuais de Aprendizagem
+***_ Co-criação de conhecimento
+***_ Participação ativa
+***_ Sentido de pertença
+***_ Cultura de participação responsável
+**_ envolve
+*** Integração no Sistema de Ensino
+****_ Extensão da cultura em rede ao ensino
+****_ Importância da aplicabilidade
+****_ Formação de cidadãos digitais
+@endmindmap

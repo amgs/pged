@@ -9,7 +9,7 @@ modules=(
 mkdir -p "02 Output"
 for module in $modules; do
 	cd "01 Módulos"/$module
-	for x in *.md; do pandoc "$x" -o "../../02 Output/${x%.md}.pdf" -H ../../preamble.tex; done
+	for x in *.md; do pandoc -f markdown --template=../../template.tex -H ../../preamble.tex -s -o "../../02 Output/${x%.md}.pdf" "$x"; done
 	cd ..
 done
 

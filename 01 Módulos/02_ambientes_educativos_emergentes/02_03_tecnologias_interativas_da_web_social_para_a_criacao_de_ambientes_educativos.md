@@ -1,1 +1,9 @@
 # Tecnologias Interativas da Web Social para a Criação de Ambientes Educativos
+
+As potencialidades das redes sociais na educação têm sido discutidas na literatura académica, particularmente quanto ao seu papel na promoção de competências digitais e no desenvolvimento de comunidades virtuais de aprendizagem. O conceito de *nativos digitais* ilustra a familiaridade das gerações mais jovens com a tecnologia, no entanto, a literacia tecnológica não se traduz automaticamente em competências para o uso pedagógico destas redes. As redes sociais, quando integradas em contextos educativos, podem facilitar a interação e a colaboração entre os participantes, promovendo um ambiente enriquecedor de aprendizagem que transcende os limites físicos da sala de aula.
+
+O papel das redes sociais na construção de conhecimento coletivo é central para a pedagogia contemporânea. Através da comunicação síncrona e assíncrona, estas plataformas permitem o intercâmbio de ideias e experiências, fomentando a co-criação de conhecimento e a aquisição de competências essenciais para o século XXI, como o pensamento crítico e a resolução de problemas em equipa. Além disso, o uso das redes sociais em ambiente educativo pode aumentar a motivação e o envolvimento de estudantes, uma vez que as tarefas se tornam mais interativas e alinhadas com as suas práticas digitais quotidianas, promovendo também o contacto com perspetivas multiculturais.
+
+A integração das redes sociais e do software social no sistema de ensino exige um esforço concertado por parte de professores e instituições. É fundamental que educadores incentivem uma utilização ética e responsável das ferramentas digitais, promovendo não só a literacia digital, mas também competências relacionadas com a segurança online e a cidadania digital.
+
+![Web Social na Educação](figures/02_03_tecnologias_interativas_da_web_social_para_a_criacao_de_ambientes_educativos.svg)
