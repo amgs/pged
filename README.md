@@ -10,7 +10,7 @@ André Sabino &copy; 2024
 - [O Paradigma da Educomunicação](01%20Módulos/01_sociedade_em_rede_e_educacao_digital/01_03_o_paradigma_da_educomunicacao.md)
 - [A Inovação em Educação Digital](01%20Módulos/01_sociedade_em_rede_e_educacao_digital/01_04_a_inovacao_em_educacao_digital.md)
 
-## 2. Ambientes Educativos Emergentes
+## 2. [Ambientes Educativos Emergentes](01%20Módulos/02_ambientes_educativos_emergentes/02_00_ambientes_educativos_emergentes.md)
 - [Competências Digitais](01%20Módulos/02_ambientes_educativos_emergentes/02_01_competencias_digitais.md)
 - [Conteúdos e Recursos Educativos Digitais](01%20Módulos/02_ambientes_educativos_emergentes/02_02_conteudos_e_recursos_educativos_digitais.md)
 - [Tecnologias Interativas da Web Social para a Criação de Ambientes Educativos](01%20Módulos/02_ambientes_educativos_emergentes/02_03_tecnologias_interativas_da_web_social_para_a_criacao_de_ambientes_educativos.md)
