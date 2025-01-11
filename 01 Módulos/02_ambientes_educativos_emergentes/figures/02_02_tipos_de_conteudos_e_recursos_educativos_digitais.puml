@@ -1,0 +1,68 @@
+@startmindmap 02_02_tipos_de_conteudos_e_recursos_educativos_digitais
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+
+*:**Tipos de Conteúdos e Recursos**
+**Educativos Digitais**;
+
+left side
+
+** Conteúdos Multimédia
+***_ Animações e simulações
+***_ Vídeos educativos (YouTube, Khan Academy, TED Talks)
+***_ Podcasts e áudios educativos (Spotify, SoundCloud)
+***_ Apresentações interativas (PowerPoint, Prezi, Genially)
+
+** Recursos Interativos
+***_ Jogos educativos
+***_ Realidade aumentada e realidade virtual
+***_ Questionários e quizzes online (Kahoot, Quizizz)
+***_ Plataformas de aprendizagem interativas (Duolingo, Code.org)
+
+** Ferramentas de Criação de Conteúdo
+***_ Editores de texto colaborativo (Overleaf, Google Docs, Microsoft OneNote)
+***_ Design gráfico (Canva, Adobe Express)
+***_ Editores de vídeo e áudio (Camtasia, Audacity)
+***_ Ferramentas de programação e desenvolvimento (VS Code LiveShare, Replit)
+
+** Recursos Baseados na Web
+***_ Blogs e wikis educativos (Wikipedia, WordPress)
+***_ Cursos online abertos e massivos (MOOCs) (Coursera, edX)
+***_ Plataformas de vídeo educativo (YouTube, TED-Ed)
+***_ Bases de dados e bibliotecas digitais (Europeana, PubMed)
+
+** Plataformas e Sistemas de Gestão da Aprendizagem (LMS)
+***_ Canvas
+***_ Moodle
+***_ Google Classroom
+***_ Microsoft Teams
+
+right side
+
+** Recursos para Ensino Colaborativo
+***_ Ferramentas de brainstorming (Padlet, Miro)
+***_ Plataformas de videoconferência (Teams, Zoom, Google Meet)
+***_ Fóruns de discussão e redes sociais académicas (Edmodo, Piazza)
+
+** Recursos Específicos de Disciplinas
+***_ Livros digitais e e-books interativos
+***_ Mapas e globos digitais (Google Earth, GeoGebra)
+***_ Laboratórios virtuais (PhET Interactive Simulations)
+***_ Planilhas e gráficos interativos (Excel, Google Sheets)
+
+** Tecnologias Adaptativas
+***_ Sistemas de recomendação de conteúdos
+***_ Plataformas adaptativas ao ritmo de aprendizagem (Knewton, ALEKS)
+
+** Ferramentas de Avaliação e Feedback
+***_ Plataformas de correção automática (Formative, Socrative)
+***_ Portfolios digitais (Seesaw)
+***_ Sistemas de rubricas digitais (Rubistar)
+
+** Conteúdos para Inclusão e Acessibilidade
+***_ Ferramentas de transcrição automática (Recall, Otter.ai, Google Live Transcribe)
+***_ Recursos para necessidades especiais (Loom, leitura por síntese de voz)
+***_ Software de ampliação e acessibilidade visual (ZoomText, ClaroRead)
+
+@endmindmap

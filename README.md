@@ -2,7 +2,7 @@
 
 **[Pós-graduação em Educação Digital](https://www.europeia.pt/pos-graduacoes-online/) - [Universidade Europeia](https://www.europeia.pt)**
 
-André Sabino &copy; 2024
+André Sabino &copy; 2025
 
 ## 1. [Sociedade em Rede e Educação Digital](01%20Módulos/01_sociedade_em_rede_e_educacao_digital/01_00_sociedade_em_rede_e_educacao_digital.md)
 - [Sociedade em Rede e os Novos Desafios da Educação](01%20Módulos/01_sociedade_em_rede_e_educacao_digital/01_01_sociedade_em_rede_e_os_novos_desafios_da_educacao.md)
