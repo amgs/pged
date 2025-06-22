@@ -1,0 +1,63 @@
+@startmindmap 03_02_atividades_de_aprendizagem_digital
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+* **Educação Digital em Rede**
+
+left side
+
+**_ ecossistemas de aprendizagem para
+*** Atores humanos e digitais
+***_ Ambientes adaptativos e colaborativos
+***_ Metáfora biológico-tecnológica
+*** Arquitectura do Ecossistema Digital (Wilkinson, 2002)
+****_ Taxonomia de conteúdos partilhada
+****_ Sistemas de gestão da aprendizagem (LMS)
+****_ Sistemas de gestão de conteúdos
+****_ Repositórios de objectos de aprendizagem
+****_ Gestão de fluxo de trabalho
+****_ Motores de avaliação
+****_ Motores de simulação e jogos
+****_ Ferramentas de colaboração e discussão
+****_ Elementos de suporte e orientação
+**_ modelos Ppdagógicos virtuais para
+*** Community of Inquiry (Garrison et al.)
+****_ Organização social e definição de papéis
+****_ Metodologia e avaliação
+****_ Ambiente virtual e suas ferramentas
+****_ Conteúdos como objectos digitais
+*** Modelo e-Moderating (Salmon, 2000)
+****_ E-moderador como figura central
+****_ Aprendizagem estruturada em 5 etapas
+****_ Foco na autonomia e interacção progressiva
+*** Modelo de Interação (Faerber, 2022)
+****_ Lógica socio-construtivista
+****_ Grupo como novo elemento do triângulo pedagógico
+****_ Três dimensões: participar, facilitar, partilhar
+*** Modelo da Desconstrução de Imagens (Moreira, 2017)
+****_ Baseado na Teoria da Flexibilidade Cognitiva (Spiro)
+****_ Análise de casos sob múltiplas perspetivas
+****_ Processos: desconstrução e travessias temáticas
+****_ Objecto de aprendizagem: caso + perspetivas + análise
+
+right side
+
+**_ envolve
+*** Comunicação e Colaboração
+****_ Comunicação síncrona e assíncrona
+****_ Comunidades virtuais de aprendizagem
+****_ Emoções e mediação pedagógica
+*** Recursos e Tecnologias
+****_ Curadoria de conteúdos
+****_ Recursos Educacionais Abertos (REA)
+****_ Critérios de qualidade de recursos digitais
+*** E-atividades e Avaliação
+****_ Aprender fazendo
+****_ Autoavaliação e coavaliação
+****_ Portefólios digitais
+*** Produção de Conteúdos Audiovisuais
+****_ Papel do professor-maker
+****_ Pré-produção e storyboard
+****_ Gravação e edição
+****_ Linguagem audiovisual como estratégia pedagógica
+@endmindmap

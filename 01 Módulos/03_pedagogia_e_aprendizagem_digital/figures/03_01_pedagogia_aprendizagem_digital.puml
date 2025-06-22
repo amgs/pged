@@ -1,0 +1,87 @@
+@startmindmap 03_01_pedagogia_aprendizagem_digital
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+
+
+left side
+
+* **Pedagogia e Aprendizagem Digital**
+
+**_ definem
+
+*** Importância da Comunicação e Colaboração
+****_ suportam a comunicação
+***** Transmissão de informação, interação, debate
+****_ suportam a colaboração
+***** Comunidades virtuais de aprendizagem
+
+*** Transformação na Sociedade Digital
+****_ motivam a
+***** Sociedade da comunicação
+***** Risco de desconexão escola-sociedade
+
+*** Espaços de Aprendizagem
+****_ reconfiguram
+*****_ Novas competências digitais
+*****_ Comunicação síncrona e assíncrona
+*****_ Espaços híbridos e centrados no estudante
+
+*** Modelos Pedagógicos
+****_ influenciam
+***** Comunicação e colaboração orientadas por modelo
+***** Comunidades de prática
+***** Plataformas e ferramentas
+******_ são exemplos de
+*******_ WhatsApp
+*******_ Discord
+*******_ Redes sociais privadas
+
+*** Políticas Educativas e Investigação
+****_ manifestam
+*****_ UNESCO - Relatório Educação
+*****_ Comissão Europeia - Educação Digital
+*****_ Portugal - Plano Transição Digital
+*****_ Brasil - Diretrizes Educação Híbrida
+
+right side
+
+**_ implicam
+*** Flexibilidade e Adaptação de Modelos
+****_ Não há modelo ideal
+****_ Combinação conforme objetivos e perfis
+****_ Aprendizagem líquida (podcast)
+
+**_ suportadas por
+*** Ferramentas Digitais
+
+**** LMS
+*****_ Google Classroom
+*****_ Moodle
+*****_ Canvas
+*****_ Microsoft Teams for Education
+
+**** Colaboração em Tempo Real
+*****_ Padlet
+*****_ Miro / Jamboard
+*****_ Figma FigJam
+*****_ Google Docs / Slides / Sheets
+
+**** Comunicação Síncrona e Assíncrona
+*****_ Zoom / Google Meet
+*****_ Discord
+*****_ Slack
+*****_ Edmodo
+
+**** Aprendizagem Ativa
+*****_ Kahoot!
+*****_ Mentimeter
+*****_ Flip
+*****_ Trello / Notion
+
+**** Privacidade e Personalização
+*****_ OneNote Classroom
+*****_ Mattermost
+*****_ Nextcloud
+
+@endmindmap

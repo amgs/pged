@@ -1,0 +1,67 @@
+@startmindmap 04_01_linguagem_e_recursos_audiovisuais_online
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Linguagem e Recursos Audiovisuais**
+**Online**;
+
+left side
+
+** Função na Educação Digital
+***_ Estímulo à emoção e criatividade
+***_ Participação ativa dos estudantes
+***_ Ligação com narrativas significativas
+***_ Mediação pedagógica pelo professor
+** Características dos Vídeos Educativos
+***_ Curtos, claros e focados
+***_ Integração em estratégias ativas
+***_ Evitar redundância
+***_ Relevância para os estudantes
+** Funções Pedagógicas do Vídeo
+***_:Informativa
+(factos e teorias);
+***_:Motivadora
+(despertar interesse);
+***_:Ilustrativa
+(conceitos complexos);
+***_:Comunicativa
+(narrativas e histórias);
+***_:Autoaprendizagem
+(autonomia);
+** Avaliação da Qualidade
+***_ influenciam a
+****_ Critérios de conteúdo
+*****_ Clareza
+*****_ Rigor
+*****_ Atualidade
+****_ Aspetos técnicos
+*****_ Som
+*****_ Imagem
+*****_ Texto
+*****_ Articulação
+****_ Adequação pedagógica
+*****_:Alinhamento com
+objetivos e currículo;
+
+right side
+
+** Ligação à Avaliação
+***_ Utilização de vídeo como suporte avaliativo
+***_ Estímulo à reflexão e discussão
+***_ Verificação de conhecimentos adquiridos
+** Elaboração de Questões de Avaliação
+*** Tipos de questões
+****_ Múltipla escolha
+****_ Verdadeiro ou falso
+****_ Dissertativas
+*** Boas práticas
+****_ Clareza no enunciado
+****_ Alternativas aparentes plausíveis
+****_ Única resposta correta
+****_ Evitar negativas confusas
+****_ Alternativas homogéneas
+****_:Evitar "todas" 
+ou "nenhuma das anteriores";
+****_ Inclusão de contexto ou cenários
+****_ Revisão e teste prévio
+@endmindmap

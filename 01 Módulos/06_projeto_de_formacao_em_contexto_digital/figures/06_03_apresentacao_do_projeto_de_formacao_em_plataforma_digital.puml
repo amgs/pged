@@ -1,0 +1,53 @@
+@startmindmap 06_03_apresentacao_do_projeto_de_formacao_em_plataforma_digital
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Apresentação do Projeto de Formação**
+**em Plataforma Digital**;
+
+left side
+
+** Formatos de Apresentação
+***_ são hipóteses para
+**** Documentos Escritos
+*****_ Proposta do Projeto
+*****_ Plano de Curso
+*****_ Relatórios de Progresso
+**** Slides
+*****_ característicos de
+******_ Gráficos
+******_ Imagens
+******_ Infografias
+**** Vídeos
+*****_ característicos de
+******_ Clareza
+******_ Dinamismo
+**** Plataforma Virtual
+*****_ são exemplos de
+******_ Protótipo AVA
+******_ Moodle / Canvas
+******_ Conteúdos Interativos
+
+right side
+
+** Comunicação Visual
+***_ Imagens Representativas
+****_ Ícones / Símbolos
+****_ Gráficos / Diagramas
+****_ Banda Desenhada
+***_ Composição Visual
+****_ Enquadramento
+****_ Iluminação
+****_ Cores e Destaques
+** Modelos de Apresentação
+***_ exemplos
+**** PechaKucha
+*****_ 20 slides x 20 segundos
+*****_ Estrutura Visual
+**** Sci Flash
+*****_ 5 minutos
+*****_ Narrativa c/ Problema e Conclusão
+**** Pitch
+*****_ Breve e Conciso
+*****_ Problema, Solução e Justificação
+@endmindmap

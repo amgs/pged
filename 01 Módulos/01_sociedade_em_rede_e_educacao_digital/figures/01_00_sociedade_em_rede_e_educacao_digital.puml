@@ -1,0 +1,78 @@
+@startmindmap 01_00_sociedade_em_rede_e_educacao_digital
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Sociedade em Rede:**
+- Transformação social baseada na
+  integração global das redes digitais.  
+- Redes como estrutura organizacional
+  predominante na era da informação.
+- Proposto por Manuel Castells.;
+
+left side
+
+**_ possibilitam
+*** Tecnologias da Informação.
+****_ Infraestrutura central baseada em computação.
+****_:Tecnologias de transmissão de informação e 
+comunicação como catalisador de mudanças sociais.;
+*** Economia Global
+****_ Integração dos mercados financeiros.
+****_ Logística com escala global.
+****_ Fluxos de capital, bens e serviços em tempo real.
+*** Cultura da Virtualidade Real
+****_ Novas realidades digitais.
+****_ Perceção da realidade mediada por tecnologia.
+****_ Valores moldados pelo mediatismo.
+
+**_ definem
+*** Características
+****_ Flexibilidade e descentralização.  
+****_ Fluxos contínuos de informação.
+*** Impactos
+****_ Redes que conectam empresas, governos, ONGs, e indivíduos.
+****_ Alteração das relações sociais, económicas e políticas.
+
+**_ dinamizam
+*** Poder na Sociedade em Rede
+****_ Concentração em fluxos de informação.
+****_ Conflito com poder tradicional.
+*** Contrapoder
+****_ Movimentos sociais digitais.
+****_ Exemplos: Primavera Árabe, activismo ambiental online.
+
+right side
+
+**_ transforma
+*** Trabalho
+****_ Economia baseada no conhecimento.
+****_:Predomínio dos trabalhadores
+da informação.;
+*** Relações Interpessoais
+****_:Redes sociais digitais transformam
+a interação humana.;
+****_:Hiperconectividade acompanhada de
+individualismo em rede.;
+*** Globalização
+****_ Interconexão entre o local e o global.
+****_ Homogeneização e fragmentação cultural.
+
+**_:representa uma
+ameaça pela;
+*** Exclusão Digital
+****_:Divisão entre conectados
+e desconectados.;
+*** Vigilância e Controlo
+****_:Monitorização em massa
+e controlo.;
+*** Fragmentação Social
+****_:Isolamento através de
+bolhas de informação.;
+****_ Reforço do individualismo.
+*** Exposição da esfera privada
+****_ Exposição de dados pessoais.
+****_:Vulnerabilidade a ciberbullying
+e cibercrime.;
+
+
+@endmindmap

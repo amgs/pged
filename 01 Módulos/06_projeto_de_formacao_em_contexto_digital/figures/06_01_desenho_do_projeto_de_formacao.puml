@@ -1,0 +1,60 @@
+@startmindmap 06_01_desenho_do_projeto_de_formacao
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+* **Desenho do Projeto de Formação**
+
+left side
+
+** Diagnóstico
+***_ Identificação de problemas
+***_ Necessidades de formação
+***_ determinados pelo público-alvo
+****_ Características socioculturais
+****_ Conhecimentos prévios
+*** Contexto digital
+****_ Plataformas e ferramentas
+** Planeamento
+***_ atividades de
+****_ Definição de objetivos
+****_ Seleção de conteúdos
+****_ Escolha de metodologias
+****_ Cronograma
+****_ Recursos e ferramentas
+****_ Avaliação prevista
+***_ artefactos de
+****_ Guia pedagógico
+****_ Espaços de interação
+****_ Atividades interativas
+****_ Workshops
+****_ Fóruns e quizzes
+
+right side
+
+** Modelo ADDIE
+***_ Análise
+****_ <color:grey>Problema de aprendizagem
+****_ <color:grey>Perfil do público
+****_ <color:grey>Tópicos e tarefas
+***_ Design
+****_ <color:grey>Estrutura do curso
+****_ <color:grey>Estratégias pedagógicas
+****_ <color:grey>Plano de avaliação
+****_ <color:grey>Envolvimento das partes interessadas
+***_ Desenvolvimento
+****_ <color:grey>Produção de conteúdos
+****_ <color:grey>Métodos e media
+****_ <color:grey>Testes-piloto
+****_ <color:grey>Ferramentas e tecnologia
+***_ Implementação
+****_ <color:grey>Entrega da formação
+****_ <color:grey>Apoio técnico
+****_ <color:grey>Comunicação
+****_ <color:grey>Programas complementares
+***_ Avaliação
+****_ <color:grey>Formativa
+****_ <color:grey>Sumativa
+****_ <color:grey>Feedback de estudantes
+****_ <color:grey>Impacto institucional
+
+@endmindmap

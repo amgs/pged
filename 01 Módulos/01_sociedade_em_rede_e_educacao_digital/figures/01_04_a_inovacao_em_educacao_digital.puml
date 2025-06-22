@@ -1,0 +1,54 @@
+@startmindmap 01_04_a_inovacao_em_educacao_digital
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Ecossistema de Educação Digital**
+- Ambiente integrado com tecnologias digitais,
+práticas pedagógicas inovadoras e redes de interação.
+- Modelos biológicos de adaptação, interdependência
+e evolução.;
+
+left side
+
+**_ caracteriza
+*** Interconectividade
+****_ Dispositivos, plataformas e utilizadores.
+****_ Sistemas de gestão de aprendizagem.
+****_ Ferramentas colaborativas e plataformas de avaliação digital.
+*** Adaptação e Evolução
+****_ Personalização de conteúdos.
+****_ Ajuste contínuo às necessidades dos utilizadores.
+*** Partilha e Colaboração
+****_ Criação de conhecimento coletivo.
+****_ Participação ativa dos estudantes.
+*** Competição
+****_ Diversidade de atores e recursos.
+****_:Estímulo à inovação e melhoria dos conteúdos
+educativos digitais.;
+
+right side
+
+**_ compostos por
+*** Plataformas e Infraestruturas
+****_ Disponibilização de conteúdos.
+****_ Interação síncrona e assíncrona.
+*** Recursos Educativos Digitais
+****_ Democratização do acesso ao conhecimento.
+*** Aprendizagem em Rede
+****_ Redes sociais e comunidades virtuais.
+****_:Colaboração e desenvolvimento de
+competências sociais.;
+*** Práticas Pedagógicas Inovadoras
+****_ Exemplo: //Flipped Classroom//.
+****_:Aumento da motivação e interação entre
+docentes e estudantes.;
+*** Monitorização e Avaliação
+****_ Personalização das estratégias pedagógicas.
+****_ Melhoria da eficácia educativa.
+
+**_ ameaçados por
+***_ Infraestruturas tecnológicas robustas
+***_ Formação contínua de docentes
+***_ Equidade no acesso às ferramentas digitais
+***_ Adaptação às rápidas evoluções tecnológicas
+@endmindmap

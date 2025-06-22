@@ -1,0 +1,94 @@
+@startmindmap 01_02_a_realidade_hiperconectada_e_a_educacao_online
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Onlife**
+- Fusão entre os mundos online e offline.
+- Nova realidade interconectada;
+
+left side 
+**_ determina
+*** Hiperconectividade
+****_ Redes digitais na vida quotidiana.
+****_:Interação em tempo real com pessoas e sistemas,
+independentemente da localização.;
+
+*** Digitalização da Experiência Humana
+****_ Dados e interações registados digitalmente.
+****_ Convergência entre atividades físicas e digitais.
+
+*** Redes e Infraestruturas Globais
+****_ Redes de comunicação avançadas.
+****_ Dependência de plataformas digitais para trabalho, lazer, e educação.
+
+*** Interdependência Entre Humanos e Tecnologias
+****_ Uso de inteligência artificial para tomada de decisões.
+****_ Coexistência e colaboração entre humanos e sistemas digitais.
+
+**_ possibilita
+*** Inovação na Educação e Aprendizagem
+****_ Ensino nativo digital, e não presencial adaptado.
+****_ Educação personalizada e adaptativa.
+
+*** Transformação das Relações Humanas
+****_ Conexão contínua entre indivíduos e comunidades.
+****_:Novas formas de interação
+(e.g., realidade aumentada, ou metaverso).;
+
+*** Redefinição do Trabalho e Economia
+****_ Expansão do trabalho remoto e híbrido.
+****_ Automatização de processos e criação de novas indústrias digitais.
+
+*** Participação Cívica e Política
+****_ Democracia digital e envolvimento cívico online.
+****_ Crowdsourcing para iniciativas sociais e políticas.
+
+*** Cultura e Entretenimento
+****_ Novos formatos artísticos digitais.
+****_ Experiências culturais híbridas, como visitas virtuais a museus.
+
+right side 
+
+**_ gera a oportunidade para
+*** Inclusão Digital
+****_ Maior acesso à informação e conhecimento global.
+****_ Ferramentas para inclusão social e acessibilidade.
+
+*** Inovação Tecnológica
+****_ Desenvolvimento de tecnologias centradas no ser humano.
+****_ Integração de IA para melhorar a qualidade de vida.
+
+*** Sustentabilidade
+****_ Redução de deslocações e impacto ambiental graças ao digital.
+****_ Soluções inteligentes para gestão de recursos.
+
+*** Colaboração Global
+****_ Interação instantânea entre culturas e nações.
+****_:Resolução de problemas globais através de
+redes interconectadas.;
+
+
+**_ representa ameaça sobre
+*** Perda de Privacidade
+****_ Monitorização constante por governos e empresas.
+****_ Exploração de dados pessoais para manipulação.
+
+*** Desinformação e Manipulação
+****_ Proliferação de fake news e deepfakes.
+****_ Influência de algoritmos na formação de opiniões.
+
+*** Desigualdade Digital
+****_ Exclusão de comunidades sem acesso à tecnologia.
+****_ Ampliação de desigualdades económicas e sociais.
+
+*** Impactos na Saúde Mental e Física
+****_ Ansiedade e dependência digital.
+****_:Problemas físicos associados ao uso
+prolongado de dispositivos.;
+
+*** Automatização e Emprego
+****_ Substituição de trabalhos humanos por IA e robôs.
+****_:Necessidade de requalificação constante
+para acompanhar a evolução.;
+
+@endmindmap

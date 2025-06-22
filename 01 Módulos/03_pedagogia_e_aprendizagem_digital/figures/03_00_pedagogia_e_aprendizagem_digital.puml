@@ -1,0 +1,36 @@
+@startmindmap 03_00_pedagogia_e_aprendizagem_digital
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+* **Pedagogia e Aprendizagem Digital**
+
+left side
+
+** Comunicação e Colaboração Digital
+***_ Interacção síncrona e assíncrona
+***_ Plataformas digitais colaborativas
+***_ Comunidades virtuais de aprendizagem
+***_ Desenvolvimento de competências sociais e digitais
+** Atividades de Aprendizagem Digitais
+***_ Aprendizagem activa e "aprender fazendo"
+***_ Utilização de recursos digitais interactivos
+***_ Avaliação formativa e portefólios digitais
+***_ Criação de produtos digitais (vídeos, apresentações, podcasts)
+** Planificação de Atividades de Aprendizagem Digitais
+***_ Centrada no estudante
+***_ Promoção da autonomia e autorregulação
+***_ Modelo ADDIE (Análise, Desenho, Desenvolvimento, Implementação, Avaliação)
+***_ Alinhamento entre objectivos, métodos e avaliação
+
+right side
+
+** Modelos Pedagógicos para Cenários Híbridos
+***_ Combinação entre ensino presencial e online
+***_ Flexibilidade e personalização
+***_ Modelos: Rotation, Flex, Self-Blend, Enriched Virtual
+***_ Flipped Classroom e Station Rotation
+** Modelos Pedagógicos para Ambientes Virtuais
+***_ Community of Inquiry (presença social, cognitiva e de ensino)
+***_ Modelo E-Moderating (Salmon)
+***_ Modelo de Faerber (triângulo + grupo)
+***_ Avaliação integrada e colaborativa
+@endmindmap

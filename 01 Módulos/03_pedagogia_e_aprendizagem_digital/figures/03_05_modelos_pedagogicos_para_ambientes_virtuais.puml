@@ -1,0 +1,60 @@
+@startmindmap 03_05_modelos_pedagogicos_para_ambientes_virtuais
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+*:**Modelos Pedagógicos**
+**para Ambientes Virtuais**;
+
+left side
+
+**_:promovem a reconfiguração
+do ensino;
+***_ Superar práticas tradicionais
+***_ Aprendizagem activa e participativa
+***_ Papel do estudante: autonomia e colaboração
+***_ Papel do professor: facilitador, mentor e designer
+** Comunidades de Aprendizagem
+***_ caraterizam as
+****_ Presença Cognitiva
+****_ Presença Social
+****_ Presença de Ensino
+****_ Interacção significativa entre participantes
+**_ são modelos relevantes de
+***_ Community of Inquiry (Garrison et al.)
+****_ <color:grey>Integração das três presenças
+***_ E-Moderating (Salmon)
+****_ <color:grey>Cinco etapas de desenvolvimento
+***_ Modelo de Brown
+****_ <color:grey>Consciencialização, consolidação, camaradagem
+***_ Modelo de Faerber
+****_ <color:grey>Tetraedro com professor, estudante, conteúdo e grupo
+***_ Henri & Basque
+****_ <color:grey>Interacção e co-construção do conhecimento
+***_ Murphy
+****_ <color:grey>Processos colaborativos e interdependência
+
+right side
+
+** Avaliação em Contexto Digital
+***_ Diagnóstica
+***_ Formativa
+***_ Sumativa
+***_ Normativa (comparativa)
+***_ Autoavaliação
+***_ Processual
+***_ Avaliação 360º
+***_ Avaliação por Rubricas
+****_ Critérios
+****_ Níveis de desempenho
+****_ Descritores
+** Planeamento Avaliativo
+***_ Definição de objectivos
+***_ Estabelecimento de critérios
+***_ Recolha e análise de feedback
+***_ Plano de desenvolvimento personalizado
+** Princípios Orientadores
+***_ Criação de experiências envolventes
+***_ Flexibilidade e inclusão
+***_ Integração de tecnologias com intencionalidade pedagógica
+***_ Promoção de competências cognitivas, sociais e digitais
+
+@endmindmap

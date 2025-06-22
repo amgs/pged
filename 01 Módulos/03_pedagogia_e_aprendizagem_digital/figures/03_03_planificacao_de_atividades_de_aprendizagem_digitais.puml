@@ -1,0 +1,55 @@
+@startmindmap 03_03_planificacao_de_atividades_de_aprendizagem_digitais
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Planificação de Atividades**
+**de Aprendizagem Digitais**;
+
+left side
+
+** Foco Pedagógico
+***_ definem
+****_ Centro no estudante
+****_ Comunicação e colaboração digital
+***_ promovidos por
+****_ Autonomia
+****_ Autorregulação
+****_ Espírito crítico
+****_ Criatividade
+** Qualidade das Atividades
+***_ caraterizam
+****_ Clareza
+****_ Concisão
+****_ Relevancia
+****_ Alinhamento com os objetivos da unidade
+****_ Desenvolvimento de competências
+** Pressupostos e Objectivos
+***_ caraterizam
+**** Expectativa de aprendizagem
+**** Contribuição da atividade para a unidade
+**** Perfil do público-alvo
+*****_ Motivação
+*****_ Necessidades específicas
+
+right side
+
+** Design Instrucional
+*** Criação de processos pedagógicos eficazes
+*** Utilização de recursos digitais apropriados
+*** Modelo ADDIE
+****_ Análise
+****_ Desenho
+****_ Desenvolvimento
+****_ Implementação
+****_ Avaliação
+** Apresentação da Atividade
+***_ inclui
+****_ Título da atividade
+****_ Descrição geral
+****_ Recursos e tecnologias a utilizar
+****_ Desenvolvimento da atividade
+** Papel do Professor
+***_ Capacidade para usar tecnologias educativas
+***_ Alinhamento das práticas pedagógicas
+***_ Capacitação dos estudantes
+@endmindmap

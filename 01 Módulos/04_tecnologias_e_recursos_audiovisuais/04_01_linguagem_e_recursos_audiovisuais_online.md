@@ -1,0 +1,15 @@
+# Linguagem e recursos audiovisuais online
+
+A linguagem audiovisual é um elemento central na educação em ambiente digital, essencial para a criação da experiência pedagógica pretendida. Para além de transmitir informação, os vídeos educativos podem estimular a emoção, a curiosidade e a participação ativa de estudantes, através de narrativas criativas e conteúdos bem estruturados. A eficácia destes recursos depende da sua adequação aos objetivos pedagógicos, da sua relevância para os estudantes e da capacidade do professor para mediar a sua utilização no processo de ensino-aprendizagem.
+
+Os vídeos podem assumir diversas funções complementares: apresentar factos e conceitos (função informativa); despertar o interesse dos estudantes (motivadora); clarificar conteúdos complexos (ilustrativa); comunicar ideias através de histórias (comunicativa); e fomentar a autonomia na aprendizagem (autoaprendizagem). Para maximizar o seu impacto, devem ser curtos, claros, focados e integrados em estratégias de aprendizagem ativa. A qualidade destes recursos deve ser avaliada com base em critérios como clareza, rigor, atualidade, articulação dos elementos técnicos (som, imagem, texto) e alinhamento com os conteúdos curriculares.
+
+A criação de questões de avaliação eficazes é igualmente importante para um ensino de qualidade. Questões bem formuladas — especialmente de múltipla escolha — exigem clareza no enunciado, alternativas aparentes plausíveis, e uma única resposta correta, evitando ambiguidades ou pistas involuntárias[^1]. Além disso, recomenda-se a contextualização das perguntas em cenários realistas, o que permite avaliar não apenas a memorização de conteúdos, mas também a capacidade de aplicar conhecimentos a situações concretas, promovendo uma aprendizagem mais significativa e duradoura[^2].
+
+A revisão e validação das questões devem fazer parte do processo de elaboração, garantindo o seu alinhamento com os objetivos de aprendizagem e a sua adequação ao nível cognitivo esperado. O teste prévio das questões junto de colegas ou pequenos grupos de estudantes permite detetar falhas e aperfeiçoar os itens antes da sua aplicação formal. Este rigor na conceção de elementos de avaliação, aliado ao uso pedagógico de recursos audiovisuais, contribui para uma prática educativa mais eficaz, equitativa e centrada no estudante[^3].
+
+![04_01_linguagem_e_recursos_audiovisuais_online](figures/04_01_linguagem_e_recursos_audiovisuais_online.svg)
+
+[^1]: Haladyna, T. M., Downing, S. M., & Rodriguez, M. C. (2002). A review of multiple-choice item-writing guidelines for classroom assessment. Applied Measurement in Education, 15(3), 309-334. https://doi.org/10.1207/S15324818AME1503_5  
+[^2]: Tarrant, M., & Ware, J. (2012). A framework for improving the quality of multiple-choice assessments. Nurse Education in Practice, 12(5), 204-209. https://doi.org/10.1097/nne.0b013e31825041d0
+[^3]: Brookhart, S. M. (2013). How to create and use rubrics for formative assessment and grading. ASCD.

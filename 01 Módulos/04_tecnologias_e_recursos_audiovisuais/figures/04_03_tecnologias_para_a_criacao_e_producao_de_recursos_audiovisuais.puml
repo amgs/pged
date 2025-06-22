@@ -1,0 +1,65 @@
+@startmindmap 04_03_tecnologias_para_a_criacao_e_producao_de_recursos_audiovisuais
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Tecnologias para a criação e**
+**produção de recursos audiovisuais**;
+
+left side
+
+**_ constituem
+*** E-atividades digitais
+****_ Contexto e conteúdos curriculares
+****_ Objetivos de aprendizagem
+****_ Promoção da interação
+*****_ Tipo de interações
+*****_ Recursos disponíveis
+*****_ Estratégias pedagógicas
+****_ Avaliação
+*****_ Avaliação formativa
+*****_ Feedback constante
+*****_ Avaliação sumativa
+
+**_ representam
+*** Ferramentas pedagógicas complementares
+**** Portefólio digital
+*****_ Registo reflexivo e sistemático
+*****_ Documentação do progresso
+*****_ Feedback contínuo
+**** Diário gráfico (ensino do design)
+*****_ Investigação e experimentação visual
+*****_ Avaliação contínua e sumativa
+
+right side
+
+** Etapas das e-atividades
+*** 1º Planificação da atividade
+****_ Clareza e adequação
+****_ Qualidade técnica e pedagógica
+****_ Pré-visualização dos materiais
+*** 2º Visualização do vídeo
+****_ Estrutura guiada
+****_ Contextualização
+*** 3º Debate e reflexão
+****_ Grelhas de análise
+****_ Discussões e fóruns
+****_ Participação livre e moderada
+****_ Papel do professor: facilitador e moderador
+*** 4º Conclusão e verificação das aprendizagens
+****_ Avaliação: trabalhos, questionários, tarefas
+****_ Reflexão sobre aprendizagens
+****_ Incentivo ao aprofundamento
+
+
+** Potencial educativo
+***_ Personalização da aprendizagem
+***_ Interatividade e dinamismo
+***_ Criação de conteúdos multimédia
+****_ Portefólio audiovisual
+****_ Evidência das aprendizagens
+*** Desenvolvimento de competências
+****_ Pensamento crítico
+****_ Criatividade
+****_ Empatia e respeito pela diferença
+****_ Integração social e profissional
+@endmindmap

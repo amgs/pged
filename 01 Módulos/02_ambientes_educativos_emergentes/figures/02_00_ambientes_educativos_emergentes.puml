@@ -1,0 +1,22 @@
+@startmindmap
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+* **Ambientes Educativos Emergentes**
+
+** Competências Digitais
+***_ fundamentais para
+****_ Cidadania digital
+****_ Sociedade do conhecimento
+****_ Desenvolvimento através da integração tecnológica
+** Conteúdos e Recursos Educativos Digitais
+***_ potencia
+****_ Personalização da aprendizagem
+****_ Disponibilização de materiais dinâmicos e acessíveis
+****_ Integração com metodologias pedagógicas inovadoras
+** Tecnologias Interativas da Web Social
+***_ permitem
+****_ Facilitação da colaboração e co-criação
+****_ Desenvolvimento de comunidades virtuais de aprendizagem
+****_ Aprendizagem síncrona e assíncrona
+@endmindmap

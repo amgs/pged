@@ -1,0 +1,30 @@
+@startmindmap 01_03_o_paradigma_da_educomunicacao
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+* **Educomunicação**
+
+left side
+
+**_ carateriza
+***_ Interação e participação ativa de estudantes.
+***_ Incentivo ao o pensamento crítico.
+***_ Foco na literacia mediática.
+***_ Promoção de competências digitais e colaborativas.
+***_ Alinhamento com a transformação social provocada pelas tecnologias.
+
+right side
+
+**_ adequada para
+
+*** Sociedades Reticulares
+
+**_ envolve
+*** Aprender em Comunidade
+
+****_ Partilha de experiência e conhecimento.
+****_ Educação como processo coletiva.
+****_ Promove colaboração e inclusão.
+
+
+@endmindmap

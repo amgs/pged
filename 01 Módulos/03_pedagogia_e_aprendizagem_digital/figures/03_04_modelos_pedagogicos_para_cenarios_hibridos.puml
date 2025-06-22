@@ -1,0 +1,67 @@
+@startmindmap 03_04_modelos_pedagogicos_para_cenarios_hibridos
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Modelos Pedagógico**
+**para Cenários Híbridos**;
+
+left side
+
+**_ fundamentam
+***_ Combinação de ensino presencial e online
+***_ Flexibilidade e personalização da aprendizagem
+***_ Necessidade de repensar modelos tradicionais
+****_ Espaços, tempos e metodologias inovadoras
+****_ Tarefas diversificadas
+****_ Promoção da autonomia e autorregulação
+** Ambientes Educativos Inovadores
+***_ promovidos por
+****_ Colaboração
+****_ Criatividade
+****_ Pensamento crítico
+** Integração Tecnológica
+*** Modelo TPACK
+****_ definem
+*****_ Conhecimento tecnológico
+*****_ Conhecimento pedagógico
+*****_ Conhecimento de conteúdo
+*** Modelo SAMR
+****_ definem
+*****_ Substitution
+*****_ Augmentation
+*****_ Modification
+*****_ Redefinition
+
+right side
+
+** Inovação Pedagógica
+***_ Inovação sustentada e disruptiva
+***_ Adaptação das práticas docentes
+** Taxonomia de Stacker e Horn (2012)
+***_ //Rotation Model//
+****_ Alternância entre online e presencial
+****_ Personalização do ritmo
+***_ //Flex Model//
+****_ Ensino maioritariamente online
+****_ Apoio presencial quando necessário
+***_ //Self-Blend Model//
+****_ Aluno escolhe cursos online complementares
+****_ Promove autonomia
+***_ //Enriched Virtual Model//
+****_ Predominantemente online
+****_ Encontros presenciais regulares
+** Modelos derivados do Rotation
+***_ //Flipped Classroom//
+****_ Estudo online prévio
+****_ Aulas presenciais para prática e discussão
+***_ //Station Rotation//
+****_ Estações de aprendizagem mistas
+****_ Diversidade metodológica
+***_ //Lab Rotation//
+****_ Presencial + laboratórios/ambientes online
+****_ Integração prática e teórica
+***_ //Individual Rotation//
+****_ Trabalho online autónomo
+****_ Professor como mentor
+****_ Fora da zona híbrida
+@endmindmap

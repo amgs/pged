@@ -1,0 +1,54 @@
+@startmindmap 05_02_recursos_de_avaliacao_digital_e_praticas_de_feedback
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Recursos de Avaliação Digital e**
+**Práticas de Feedback**;
+
+left side
+
+** Práticas de Feedback
+*** Importância do feedback
+****_ Identificar pontos fortes/fracos
+****_ Promover reflexão
+*** Tipos
+**** Feedback Formativo
+*****_ Durante a aprendizagem
+*****_ Melhorar antes da avaliação final
+**** Feedback Sumativo
+*****_ Após a avaliação
+*****_ Resumo do desempenho
+*** Práticas Eficazes
+****_ Específico e construtivo
+****_ Foco no comportamento
+****_ Sugestões para melhoria
+****_ Autoavaliação e reflexão
+
+right side
+
+** Recursos de avaliação digital
+*** Murais Interativos
+****_:Permitem a construção
+de e-portefólios;
+*****_ E.g.: Padlet
+*** Mapas Conceptuais
+****_ Sistematizam ideias
+****_ Estabelecem relações
+**** Etapas
+*****_ 1ª: Definir tema
+*****_ 2ª: Adicionar conteúdo
+*****_ 3ª: Registar tópicos/subtópicos
+*****_ 4ª: Criar ligações
+*** Quizzes
+****_ Avaliação sumativa
+****_ Individual ou grupo
+****_ Facilitam a gamificação
+*****_ E.g: Kahoot
+******_ Feedback imediato
+*** Formulários
+****_ Versatilidade
+****_ Vários tipos de avaliação
+*****_ E.g.: Google Forms
+
+
+@endmindmap

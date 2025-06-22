@@ -1,0 +1,48 @@
+@startmindmap 06_02_desenvolvimento_da_implementacao_do_projeto_de_formacao_em_plataforma_digital
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Desenvolvimento da Implementação**
+**do Projeto de Formação**;
+
+left side
+
+** Tecnologias Digitais
+***_ facilitados por
+****_ Inclusão social
+****_ Envolvimento pessoal
+****_ Competências digitais
+** Descrição do Projeto
+***_ constituem
+****_ Introdução geral
+****_ Objetivos claros
+****_ Motivação do tema
+** Apresentação do Problema
+***_ contribuem para
+****_ Descrição do problema
+****_ Justificação da escolha
+** Estrutura e Formato da Entrega
+***_ definem
+****_ Plataforma digital (ex: Moodle, Teams)
+****_ Modalidade (síncrona/assíncrona)
+****_ Tipos de conteúdos (vídeo, quizzes, fóruns)
+
+right side
+
+** Cronograma de Atividades
+***_ inclui
+****_ Etapas do projeto
+****_ Prazos e marcos
+****_ Monitorização
+** Recursos e Materiais
+***_ Exemplos de recursos digitais
+***_ Atividades e dinâmicas propostas
+***_ Estratégias de mediação pedagógica
+** Avaliação e Melhoria Contínua
+***_ Feedback dos participantes
+***_ Ajustes e reformulação
+***_ Avaliação de impacto
+** Referências e Anexos
+***_ Referências bibliográficas
+***_ Exemplos de materiais
+@endmindmap

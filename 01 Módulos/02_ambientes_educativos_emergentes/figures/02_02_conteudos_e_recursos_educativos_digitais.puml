@@ -1,0 +1,47 @@
+@startmindmap 02_02_conteudos_e_recursos_educativos_digitais
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Conteúdos e Recursos**
+**Educativos Digitais**;
+
+left side
+
+**_ contextualizam os
+*** Novas formas de ensinar e aprender
+***:Professores e estudantes
+com papéis ativos;
+****_ promove
+*****_ Criação de conteúdos digitais
+*****_ Interação com conteúdos digitais
+*** Ambientes de aprendizagem diversos
+****_ conduzem a
+*****_ Participação ativa dos estudantes
+*****_ Construção do conhecimento
+
+right side
+
+**_ envolvem
+*** Ferramentas e Recursos Digitais
+****_ Apoiam a sistematização do conhecimento
+****_ Requerem utilização consciente e cuidadosa
+
+**_ enriquecem o
+*** Papel do Professor
+****_ procura por
+*****_ Produzir uma experiência educativa enriquecedora
+****_ através da
+*****_ Seleção de estratégias e recursos digitais adequados
+*****_ Orientação crítica de estudantes
+*****_ Avaliação da qualidade e adequação dos recursos
+
+**_ definem a
+*** Educação no Ecossistema Digital
+****_ caraterizada por
+*****_ Alinhamento com desafios da sociedade digital
+*****_ Aprendizagem em rede e colaborativa
+*****_ Perspetiva ecológica da educação
+*****_ Complementaridade o físico e o virtual
+*****_ Adaptabilidade às necessidades individuais
+
+@endmindmap

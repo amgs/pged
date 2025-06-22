@@ -1,0 +1,48 @@
+@startmindmap 05_01_conceitos_principios_funcoes_e_caracteristicas_da_avaliacao_digital
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Conceitos, princípios, funções e**
+**características da avaliação digital**;
+
+left side
+
+**_ definem
+*** O quê?
+****_ Conhecimentos
+****_ Competências
+****_ Valores
+***** Critérios transversais
+*** Quando?
+****_ Diagnóstico
+****_ Formativa (durante)
+****_ Sumativa (no final)
+*** Como?
+****_ Instrumentos de recolha de dados
+*****_ são exemplos de
+******_ Questionários
+******_ Testes
+******_ Trabalhos individuais e em grupo
+******_ Portfólios digitais
+****_ Dependência da intenção avaliativa
+
+right side
+
+**_ implicam
+*** Tecnologia
+****_ Personalização da avaliação
+****_ Feedback contínuo
+****_ Aprendizagem colaborativa
+****_ Inclusão e acessibilidade
+*** Ética
+****_ Equidade no acesso
+****_ Justiça nos critérios
+****_ Privacidade e proteção de dados
+****_ Risco de discriminação
+**_ requerem
+*** E-Portfólio
+****_ Avaliação processual
+****_ Reflexão crítica
+****_ Feedback entre pares
+****_ Autonomia e autoria
+@endmindmap

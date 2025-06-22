@@ -1,0 +1,38 @@
+@startmindmap 05_00_praticas_de_avaliacao_digital
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+* **Práticas de Avaliação Digital**
+
+left side
+
+**_ conceitos fundamentais de 
+***:Integração de tecnologias digitais 
+no processo avaliativo;
+*** Envolvimento de avaliação formativa e sumativa
+*** Promoção aprendizagem autónoma
+***:Princípios de flexibilidade, equidade,
+acessibilidade, e transparência;
+
+right side
+
+** Funções
+***_ Diagnosticar a aprendizagem
+***_ Regular o percurso formativo
+***_ Certificar competências
+***_ Apoiar a tomada de decisão pedagógica
+** Características
+***_ Interativa, e contínua
+***_ Adaptável, e personalizada
+***_ Multimodal
+** Recursos Digitais
+***_ Ferramentas de avaliação online
+***_ Ambientes virtuais de aprendizagem
+***_ Plataformas colaborativas
+***_ Recolha automatizada de dados
+** Práticas de Feedback
+***_ Formativo e contínuo
+***_ Específico e construtivo
+***_ Focado no processo, não no resultado
+***_ Estimula autorreflexão e autoavaliação
+@endmindmap

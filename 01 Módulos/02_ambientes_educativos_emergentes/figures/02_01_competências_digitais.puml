@@ -1,0 +1,74 @@
+@startmindmap 02_01_competencias_digitais
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+* **Competências Digitais na Educação**
+
+left side
+
+** Educação Aberta
+***_ Utilizar recursos educativos abertos.
+***_ Licenciar recursos educativos com licenças abertas.
+***_ Discutir princípios e implementar políticas para a educação aberta.
+
+**:Avaliação apoiada em Aplicações
+e Ferramentas Digitais;
+***_:Incentivar estudantes a analisar os seus próprios dados de
+desempenho e a definir objetivos de aprendizagem.;
+***_ Monitorizar progresso e/ou avaliar.
+***_ Fornecer feedback.
+
+** Recursos Digitais
+***_ Adaptar, utilizar, partilhar e criar recursos digitais interativos.
+***_ Proteger dados digitais relativos a sujeitos identificáveis.
+***_ Assegurar conformidade com o RGPD.
+
+right side
+
+** Envolvimento Profissional
+***_ Criar, reutilizar e partilhar materiais em colaboração com outros educadores em rede.
+***_ promover
+****_ Estratégias de comunicação digital.
+****_ Inovação no ensino através da utilização de tecnologias digitais.
+****_ Certificação no uso de tecnologias digitais.
+
+** Ensino e Aprendizagem
+***_ Conceber atividades curriculares que exijam o uso de tecnologias digitais.
+***_ utilizar
+****_ Ferramentas digitais para implementar estratégias pedagógicas inovadoras.
+****_ Aplicações e/ou jogos digitais para envolver os alunos.
+***_ promover a
+****_ Aprendizagem colaborativa.
+****_ Co-criação e partilha de conhecimento.
+***_ Redirecionar a atividade online dos alunos quando necessário.
+
+
+right side
+
+** Capacitação de Estudantes
+***_ promover a utilização de 
+****_ Ferramentas digitais acessíveis e inclusivas.
+****_ Formatos de código aberto.
+****_ Licenças abertas apropriadas
+***_ apoiar a
+****_ Definição de objetivos e planeamento de atividades.
+****_ Criação, apresentação, e partilha de conhecimento.
+
+**:Facilitação da Competência
+Digital de Estudantes;
+***_ debater sobre como
+****_ A informação é gerada e como pode ser distorcida.
+****_ Identificar desinformação e preconceitos.
+***_ identificar 
+****_ Conteúdos licenciados abertamente que possam ser reutilizados.
+****_ Licenças a aplicar na partilha de conteúdos próprios.
+***_ incentivar estudantes a
+****_ Utilizar meios digitais para comunicar e colaborar.
+****_ Criar conteúdos digitais.
+****_ Utilizar competências digitais de resolução de problemas.
+****_ Identificar autonomamente essas oportunidades.
+***_ ensinar a
+****_ Identificar e avaliar comportamentos inadequados online.
+****_ Identificar formas de denúncia em casos de ofensa ou ataque pessoal.
+
+
+@endmindmap

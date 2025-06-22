@@ -1,0 +1,32 @@
+@startmindmap 06_00_projeto_de_formacao_em_contexto_digital
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+*:**Projeto de Formação**
+**em Contexto Digital**;
+
+** Desenho do Projeto de Formação
+***_ Definição de objetivos
+***_ Identificação do público-alvo
+***_ Estrutura modular do curso
+***_ Seleção de conteúdos e metodologias
+***_ Planeamento da avaliação
+** Desenvolvimento da Implementação
+***_ Criação de conteúdos digitais
+***_ Estruturação dos módulos
+***_ Integração de atividades interativas
+***_ Gestão da plataforma digital
+***_ Monitorização do progresso
+** Apresentação do Projeto
+***_ Elaboração de documentos
+****_ Proposta do projeto
+****_ Plano de curso
+****_ Relatórios de progresso
+***_ Suportes de apresentação
+****_ Apresentações visuais
+****_ Vídeos informativos
+****_ Protótipos na plataforma
+***_ Comunicação visual
+****_ Escolha de imagens e esquemas
+****_ Organização clara e apelativa
+@endmindmap

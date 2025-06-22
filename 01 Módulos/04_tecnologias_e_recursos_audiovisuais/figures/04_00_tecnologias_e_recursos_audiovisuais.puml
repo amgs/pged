@@ -1,0 +1,51 @@
+@startmindmap 04_00_tecnologias_e_recursos_audiovisuais
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+top to bottom direction
+
+*:**Tecnologias e Recursos**
+**Audiovisuais**;
+
+left side
+
+** Linguagem e Recursos Audiovisuais Online
+***:Plataformas digitais
+(YouTube, Vimeo, etc.);
+***:Formatos multimodais
+(vídeo, som, animação);
+***:Acesso e partilha
+de conteúdos;
+***:Literacia mediática e 
+interpretação crítica;
+
+**:Atividades de Aprendizagem Digitais 
+Centradas na Desconstrução de 
+Imagens em Movimento;
+*** Etapas da atividade
+****:Planificação
+(seleção e preparação do vídeo);
+****:Visualização
+(observação guiada e crítica);
+****:Debate e reflexão
+(interpretação e construção de sentido);
+****:Avaliação
+(sumativa e formativa);
+***:Desenvolvimento de
+competências;
+**** Pensamento crítico
+**** Colaboração
+****:Expressão e 
+argumentação;
+
+right side
+
+** Tecnologias para a Criação e Produção de Recursos Audiovisuais
+*** Ferramentas digitais
+**** WeVideo, Animaker, Canva, OBS Studio
+*** Produção de conteúdos pelos alunos
+**** Vídeos, podcasts, animações
+*** Avaliação através de portefólios audiovisuais
+***:Estímulo à criatividade e 
+personalização da aprendizagem;
+@endmindmap

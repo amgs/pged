@@ -1,0 +1,40 @@
+@startuml 03_01_comunicacao_e_colaboracao_digital
+!define LIGHTBLUE
+!includeurl https://gist.githubusercontent.com/amgs/de57560012a8a5f0e4240f392b678a40/raw/c903c6b4f16b60b5eef3248f093497faae378f51/style.puml
+
+
+partition "1. Antecipação" {
+    partition "Planeamento" {
+        :Identificar:
+        - Objetivos de aprendizagem.
+        - Conteúdos a utilizar.
+        - Habilidades a desenvolver.
+        - Competências a desenvolver.;
+    }
+    partition "Diagnóstico" {
+        split
+            :Identificar/definir conhecimento e
+            competências adquiridas/a adquirir.;
+        split again
+            :Identificar diferenças entre estudantes.;
+        end split
+    }
+
+    :Definir performance esperada.;
+    :Caraterizar tipo de acessibilidade.;
+}
+partition "2. Colocação em cena" {
+    :Determinar:
+    - Ambiente de aprendizagem a utilizar.
+    - Recursos humanos e materiais necessários.
+    - Metodologias de ensino.
+    - Processo de avaliação.;
+}
+partition "3. Modelos mentais" {
+    :Identificar as estratégias de aprendizagem do estudante.;
+}
+partition "4. Produto" {
+    :Reunir artefactos que permitam mensurar a aprendizagem.;
+}
+stop
+@enduml
